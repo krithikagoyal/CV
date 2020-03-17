@@ -1,0 +1,134 @@
+body {
+  margin: 0;
+  background-color: white;
+  text-align: center;
+  font-family: verdana, sans-serif;
+  background-color: #ffeadb;
+}
+
+h1 {
+  padding: 150px 150px 0 150px;
+  font-family: 'Kaushan Script', cursive;
+  font-size: 400%;
+  color: #ffaaa5;
+  margin: 0;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin-top: 0;
+  color: #ffaaa5;
+}
+
+h3 {
+  color: #ffaaa5;
+}
+
+a {
+  color: #000000;
+}
+
+.cloud1 {
+  height: 100px;
+  width: 150px;
+  position: relative;
+  top: 10px;
+  right: 350px;
+}
+
+.cloud2 {
+  height: 100px;
+  width: 150px;
+  position: relative;
+  left: 300px;
+  bottom: 250px;
+}
+
+.mountain {
+  height: 300px;
+  width: 600px;
+}
+
+.Programming {
+  width: 40%;
+  float: left;
+  margin-right: 30px;
+}
+
+.web {
+  width: 40%;
+  float:right;
+  margin-left: 30px;
+}
+.normal{
+  font-weight: normal;
+}
+
+.Skills{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+hr{
+  border-style: dotted none none none;
+  border-width: thick;
+  border-color: pink;
+  height:0;
+  width:5%;
+  margin: 80px auto 80px auto;
+}
+.middle-container{
+  margin: 100px 0 50px 0;
+}
+.end{
+  background-color: #ffbaba;
+  margin-top:100px;
+  padding: 50px;
+  line-height: 2;
+}
+.top-container{
+  background-color: white;
+  padding-bottom: 50px;
+}
+.me{
+  height: 200px;
+  width:200px;
+  margin-bottom: 30px;
+}
+.BTN {
+   -webkit-border-radius: 9px;
+   -moz-border-radius: 9px;
+   border-radius: 9px;
+   color: #FB9696;
+   font-family: monospace;
+   font-size: 53px;
+   font-weight: 200;
+   padding: 41px;
+   background-color: #000000;
+   border: inset #FD8DA2 2px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BTN:hover {
+   border: solid #FB969A 1px;
+   background: #FBC1D1;
+   background-image: -webkit-linear-gradient(top, #FBC1D1, #F9BFC8);
+   background-image: -moz-linear-gradient(top, #FBC1D1, #F9BFC8);
+   background-image: -ms-linear-gradient(top, #FBC1D1, #F9BFC8);
+   background-image: -o-linear-gradient(top, #FBC1D1, #F9BFC8);
+   background-image: linear-gradient(to bottom, #FBC1D1, #F9BFC8);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.intro{
+  width:30%;
+  margin:auto;
+  line-height: 2;
+}
